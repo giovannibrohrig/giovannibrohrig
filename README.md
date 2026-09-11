@@ -75,7 +75,7 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=4NUB1Ss2&repo=4NUB1Ss2/EtecGamesRemake-backend&show_owner=true&theme=dracula)](https://github.com/4NUB1Ss2/EtecGamesRemake-backend)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&hide=SCSS,blade,javascript,css&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&hide=SCSS,blade,css&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
 
 
 
