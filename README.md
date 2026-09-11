@@ -16,8 +16,8 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/4NUB1Ss2">
-    <img src="https://img.shields.io/badge/GitHub-4NUB1Ss2-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/giovannibrohrig">
+    <img src="https://img.shields.io/badge/GitHub-giovannibrohrig-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/g.b_rohrig">
     <img src="https://img.shields.io/badge/Instagram-@g.b_rohrig-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -71,11 +71,11 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
 ## 📊 GitHub Stats
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=giovannibrohrig&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)](https://github-stats-extended.vercel.app/api?username=giovannibrohrig&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=4NUB1Ss2&repo=4NUB1Ss2/EtecGamesRemake-backend&show_owner=true&theme=dracula)](https://github.com/4NUB1Ss2/EtecGamesRemake-backend)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=giovannibrohrig&repo=giovannibrohrig/EtecGamesRemake-backend&show_owner=true&theme=dracula)](https://github.com/giovannibrohrig/EtecGamesRemake-backend)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&hide=SCSS,blade,css&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=giovannibrohrig&layout=donut&langs_count=4&hide=SCSS,blade,css&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=giovannibrohrig&layout=donut&langs_count=4&theme=dracula)
 
 
 
